@@ -1,0 +1,8 @@
+language: go
+go_import_path: github.com/kggp1995/travis-go
+install: true
+go:
+  - 1.9.x
+  - master
+script:
+  - go run main.go
