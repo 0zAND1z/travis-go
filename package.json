@@ -1,0 +1,13 @@
+{
+  "name": "travis-go",
+  "author": "ganeshprasadkumble",
+  "version": "0.0.0",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "language": "go",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/kggp1995/travis-go/"
+  },
+  "gxVersion": "0.12.1"
+}
+
